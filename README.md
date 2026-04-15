@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # darktracex-portfolio
 Professional cybersecurity portfolio showcasing DarktraceX projects, tools, and security workflows.
 # 🔐 DarktraceX Portfolio
@@ -64,3 +65,6 @@ To build secure systems and continuously improve cybersecurity practices through
 ---
 
 > "Security is not a one-time task, it's a continuous process."
+=======
+# DarktraceX Cyber Agency
+>>>>>>> d97e6e0 (first commit)
