@@ -1,7 +1,7 @@
 
-# darktracex-portfolio
+# TraceLabBySaim-portfolio
 Professional cybersecurity portfolio showcasing DarktraceX projects, tools, and security workflows.
-# 🔐 DarktraceX Portfolio
+# 🔐 TraceLabBySaim Portfolio
 
 Welcome to the **DarktraceX Portfolio**, a collection of cybersecurity projects, tools, and workflows demonstrating practical skills in ethical hacking, penetration testing, and web security.
 
